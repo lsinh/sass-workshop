@@ -30,7 +30,7 @@ While it may seem repetitive and overboard, most of the time the HTML will be ge
 * Also, as you'll see while doing your exercise, it creates a flat CSS structure which relies on well-defined components rather than clumsy nesting.
 
 ### Doing
-* Keeping the HTML code the same, write some code inside of `scss/main.scss` to style the blog **as you wish**.
+* Keeping the HTML code the same, write some code inside of `blog/scss/main.scss` to style the blog **as you wish**.
 * Take the time to create something beautiful out of this boring HTML page! Use CSS3 functionality where appropriate, and don't hesitate to make the page your own.
 * To use the BEM classes but keep the nesting, you will need to do something like this:
 ```scss
