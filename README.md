@@ -66,6 +66,7 @@ While it may seem repetitive and overboard, most of the time the HTML will be ge
 * Based on your newly acquired knowledge, you will create the holy grail layout using flexbox
 * Look at `flexbox/index.html` for the structure, and create the holy grail layout without changing the HTML.
 * The header should be on top, footer on the bottom. Navigation on the left, ads on the right, and content in the middle.
+* If you are having trouble, you can inspire yourself from [solved by flexbox's solution](https://philipwalton.github.io/solved-by-flexbox/demos/holy-grail/)
 
 ## Exercise 4: your own page!
 * For this exercise there is no pull request. Please point us to the repository of your page on slack
